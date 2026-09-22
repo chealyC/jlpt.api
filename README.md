@@ -4,9 +4,10 @@ A Python FastAPI project that provides JLPT practice questions, vocabulary and k
 
 ## Features
 
-* JLPT-like practice questions
+* JLPT practice questions
 * Japanese language learning API
 * FastAPI REST endpoints
+* JLPT level-based questions (N3-N5)
 
 ## Technologies
 
